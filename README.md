@@ -1,7 +1,7 @@
 # OOP---Python-Resources
 Some of my favorite resources for learning OOP
 
-<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.glugmvit.com%2Fassets%2Fimages%2Foops%2Flogo.png&imgrefurl=https%3A%2F%2Fblog.glugmvit.com%2Foops%2F&tbnid=DgU5pWC0onL0ZM&vet=12ahUKEwj9t622-ez2AhUL76QKHUIkBjEQMygXegUIARCAAg..i&docid=U6v7j6axXrpRLM&w=639&h=400&q=oop%20python&ved=2ahUKEwj9t622-ez2AhUL76QKHUIkBjEQMygXegUIARCAAg' width='600'>
+<img src='images.png' width='600'>
 
 
 
